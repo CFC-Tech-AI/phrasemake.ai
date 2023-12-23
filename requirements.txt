@@ -1,6 +1,5 @@
 requests
 Django
 transformers
-imageio
-gtts
+
 
